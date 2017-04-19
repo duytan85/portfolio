@@ -1,2 +1,2 @@
 # portfolio
-http://www.duytan-hoang.com Portfolio (Currently offline)
+http://www.duytan-hoang.com Portfolio - WIP (Currently offline)
